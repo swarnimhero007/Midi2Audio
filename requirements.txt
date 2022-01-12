@@ -1,0 +1,7 @@
+mido
+pretty-midi
+pyfluidsynth
+requests
+scipy
+soundfile 
+streamlit
